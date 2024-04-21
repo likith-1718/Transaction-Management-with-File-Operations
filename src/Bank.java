@@ -31,7 +31,7 @@ public class Bank extends JFrame implements ActionListener {
         setLayout(new BorderLayout());
 
         // Set background image
-        ImageIcon backgroundIcon = new ImageIcon("C:/Users/LIKITH ABHILASH C/Desktop/FS java/TMCSP/isha2.png");
+        ImageIcon backgroundIcon = new ImageIcon("isha2.png");
         JLabel backgroundLabel = new JLabel(backgroundIcon);
         backgroundLabel.setBounds(0, 0, backgroundIcon.getIconWidth(), backgroundIcon.getIconHeight());
         add(backgroundLabel);
@@ -245,7 +245,7 @@ class MainWindow2 extends JFrame {
         setLayout(new BorderLayout());
 
         // Set background image
-        ImageIcon backgroundIcon = new ImageIcon("C:/Users/LIKITH ABHILASH C/Desktop/FS java/TMCSP/isha3.png");
+        ImageIcon backgroundIcon = new ImageIcon("isha3.png");
         JLabel backgroundLabel = new JLabel(backgroundIcon);
         backgroundLabel.setBounds(0, 0, backgroundIcon.getIconWidth(), backgroundIcon.getIconHeight());
         add(backgroundLabel);
@@ -597,7 +597,7 @@ class MainWindow extends JFrame {
         setLayout(new BorderLayout());
 
         // Set background image
-        ImageIcon backgroundIcon = new ImageIcon("C:/Users/LIKITH ABHILASH C/Desktop/FS java/TMCSP/isha4.png");
+        ImageIcon backgroundIcon = new ImageIcon("isha4.png");
         JLabel backgroundLabel = new JLabel(backgroundIcon);
         backgroundLabel.setBounds(0, 0, backgroundIcon.getIconWidth(), backgroundIcon.getIconHeight());
         add(backgroundLabel);
